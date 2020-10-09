@@ -1,0 +1,30 @@
+program Ej2;
+const
+  basico = 300000;
+var
+  N, i, ant: byte;
+  sueldo, sueldoPromedio, promedio: real;
+  nombre: string;
+begin
+  sueldo:= 0;
+  sueldoPromedio:= 0;
+  writeln('Ingrese la cantidad de empleados'); readln(N);
+  for i:= 1 to N do
+  begin
+    writeln('Ingrese el nombre'); readln(nombre);
+    writeln('Ingrese la antiguedad'); readln(ant);
+    case ant of
+    0..5: sueldo:= basico + (basico*0.2);
+    6..10: sueldo:= basico + (basico*0.4);
+    11..15: sueldo:= basico + (basico*0.6);
+    16..100: sueldo:= basico + (basico*0.8);
+    end;
+    sueldoPromedio:= sueldoPromedio + sueldo;
+    writeln('El sueldo de ',nombre,' es $',sueldo:8:2,' pesos');
+    readln();
+  end;
+  promedio:= sueldoPromedio/N;
+  writeln('El sueldo promedio es: $',promedio:8:2,' pesos');
+  readln();
+end.
+

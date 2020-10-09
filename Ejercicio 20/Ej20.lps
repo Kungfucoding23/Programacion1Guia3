@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <ProjectSession>
+    <PathDelim Value="\"/>
+    <Version Value="11"/>
+    <BuildModes Active="Default"/>
+    <Units Count="2">
+      <Unit0>
+        <Filename Value="Ej20.lpr"/>
+        <IsPartOfProject Value="True"/>
+        <IsVisibleTab Value="True"/>
+        <TopLine Value="6"/>
+        <CursorPos X="68" Y="10"/>
+        <UsageCount Value="20"/>
+        <Loaded Value="True"/>
+      </Unit0>
+      <Unit1>
+        <Filename Value="..\Ejercicio 19\Ej19.lpr"/>
+        <EditorIndex Value="-1"/>
+        <CursorPos X="45" Y="14"/>
+        <UsageCount Value="10"/>
+      </Unit1>
+    </Units>
+    <JumpHistory Count="6" HistoryIndex="5">
+      <Position1>
+        <Filename Value="Ej20.lpr"/>
+        <Caret Line="25" Column="35" TopLine="10"/>
+      </Position1>
+      <Position2>
+        <Filename Value="Ej20.lpr"/>
+        <Caret Line="5" Column="23"/>
+      </Position2>
+      <Position3>
+        <Filename Value="Ej20.lpr"/>
+        <Caret Line="21" Column="35" TopLine="2"/>
+      </Position3>
+      <Position4>
+        <Filename Value="Ej20.lpr"/>
+        <Caret Line="17"/>
+      </Position4>
+      <Position5>
+        <Filename Value="Ej20.lpr"/>
+        <Caret Line="23" Column="28" TopLine="4"/>
+      </Position5>
+      <Position6>
+        <Filename Value="Ej20.lpr"/>
+        <Caret Line="28" Column="33" TopLine="4"/>
+      </Position6>
+    </JumpHistory>
+    <RunParams>
+      <FormatVersion Value="2"/>
+      <Modes Count="0" ActiveMode=""/>
+    </RunParams>
+  </ProjectSession>
+</CONFIG>

@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <ProjectSession>
+    <PathDelim Value="\"/>
+    <Version Value="11"/>
+    <BuildModes Active="Default"/>
+    <Units Count="1">
+      <Unit0>
+        <Filename Value="Ejer11.lpr"/>
+        <IsPartOfProject Value="True"/>
+        <IsVisibleTab Value="True"/>
+        <TopLine Value="7"/>
+        <CursorPos Y="23"/>
+        <UsageCount Value="20"/>
+        <Loaded Value="True"/>
+      </Unit0>
+    </Units>
+    <JumpHistory Count="5" HistoryIndex="4">
+      <Position1>
+        <Filename Value="Ejer11.lpr"/>
+        <Caret Line="10" Column="29"/>
+      </Position1>
+      <Position2>
+        <Filename Value="Ejer11.lpr"/>
+        <Caret Line="26" Column="62" TopLine="12"/>
+      </Position2>
+      <Position3>
+        <Filename Value="Ejer11.lpr"/>
+        <Caret Line="11" Column="45" TopLine="4"/>
+      </Position3>
+      <Position4>
+        <Filename Value="Ejer11.lpr"/>
+        <Caret Line="12" TopLine="4"/>
+      </Position4>
+      <Position5>
+        <Filename Value="Ejer11.lpr"/>
+        <Caret Line="14" TopLine="4"/>
+      </Position5>
+    </JumpHistory>
+    <RunParams>
+      <FormatVersion Value="2"/>
+      <Modes Count="0" ActiveMode=""/>
+    </RunParams>
+  </ProjectSession>
+  <Debugging>
+    <BreakPoints Count="1">
+      <Item1>
+        <Kind Value="bpkSource"/>
+        <WatchScope Value="wpsLocal"/>
+        <WatchKind Value="wpkWrite"/>
+        <Source Value="Ejer11.lpr"/>
+        <Line Value="23"/>
+      </Item1>
+    </BreakPoints>
+  </Debugging>
+</CONFIG>
